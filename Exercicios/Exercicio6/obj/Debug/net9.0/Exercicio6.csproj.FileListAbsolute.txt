@@ -1,0 +1,15 @@
+E:\C#\CursoCSharp\Exercicios\Exercicio6\bin\Debug\net9.0\Exercicio6.exe
+E:\C#\CursoCSharp\Exercicios\Exercicio6\bin\Debug\net9.0\Exercicio6.deps.json
+E:\C#\CursoCSharp\Exercicios\Exercicio6\bin\Debug\net9.0\Exercicio6.runtimeconfig.json
+E:\C#\CursoCSharp\Exercicios\Exercicio6\bin\Debug\net9.0\Exercicio6.dll
+E:\C#\CursoCSharp\Exercicios\Exercicio6\bin\Debug\net9.0\Exercicio6.pdb
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\Exercicio6.AssemblyInfoInputs.cache
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\Exercicio6.AssemblyInfo.cs
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\Exercicio6.csproj.CoreCompileInputs.cache
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\Exercicio6.sourcelink.json
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\Exercicio6.dll
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\refint\Exercicio6.dll
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\Exercicio6.pdb
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\Exercicio6.genruntimeconfig.cache
+E:\C#\CursoCSharp\Exercicios\Exercicio6\obj\Debug\net9.0\ref\Exercicio6.dll
