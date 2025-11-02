@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\CursoCSharp\\Exercicios\\Exercicio5\\Exercicio5.csproj",
-      "projectName": "Exercicio5",
-      "projectPath": "E:\\C#\\CursoCSharp\\Exercicios\\Exercicio5\\Exercicio5.csproj",
+      "projectUniqueName": "E:\\C#\\CursoCSharp\\Exercicios\\Exercicio5\\Exercicio05.csproj",
+      "projectName": "Exercicio05",
+      "projectPath": "E:\\C#\\CursoCSharp\\Exercicios\\Exercicio5\\Exercicio05.csproj",
       "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
       "outputPath": "E:\\C#\\CursoCSharp\\Exercicios\\Exercicio5\\obj\\",
       "projectStyle": "PackageReference",

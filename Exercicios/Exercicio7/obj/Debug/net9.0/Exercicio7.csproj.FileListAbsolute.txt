@@ -1,0 +1,15 @@
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\Exercicio7.AssemblyInfoInputs.cache
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\Exercicio7.AssemblyInfo.cs
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\Exercicio7.csproj.CoreCompileInputs.cache
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\Exercicio7.sourcelink.json
+E:\C#\CursoCSharp\Exercicios\Exercicio7\bin\Debug\net9.0\Exercicio7.exe
+E:\C#\CursoCSharp\Exercicios\Exercicio7\bin\Debug\net9.0\Exercicio7.deps.json
+E:\C#\CursoCSharp\Exercicios\Exercicio7\bin\Debug\net9.0\Exercicio7.runtimeconfig.json
+E:\C#\CursoCSharp\Exercicios\Exercicio7\bin\Debug\net9.0\Exercicio7.dll
+E:\C#\CursoCSharp\Exercicios\Exercicio7\bin\Debug\net9.0\Exercicio7.pdb
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\Exercicio7.dll
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\refint\Exercicio7.dll
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\Exercicio7.pdb
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\Exercicio7.genruntimeconfig.cache
+E:\C#\CursoCSharp\Exercicios\Exercicio7\obj\Debug\net9.0\ref\Exercicio7.dll
