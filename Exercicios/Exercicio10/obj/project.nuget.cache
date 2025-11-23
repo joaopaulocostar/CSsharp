@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ljgGVlViHx8=",
+  "dgSpecHash": "jGeZrwlUT5A=",
   "success": true,
-  "projectFilePath": "E:\\C#\\CursoCSharp\\Exercicios\\Exercicio10\\Exercicio10.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\C#\\CSharp\\CSsharp\\Exercicios\\Exercicio10\\Exercicio10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

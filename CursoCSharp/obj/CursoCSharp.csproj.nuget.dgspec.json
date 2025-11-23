@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
+    "E:\\C#\\CSharp\\CSsharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "E:\\C#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
+    "E:\\C#\\CSharp\\CSsharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "E:\\C#\\CSharp\\CSsharp\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "E:\\C#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "E:\\C#\\CSharp\\CSsharp\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\CursoCSharp\\CursoCSharp\\obj\\",
+        "outputPath": "E:\\C#\\CSharp\\CSsharp\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
