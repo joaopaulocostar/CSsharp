@@ -1,0 +1,15 @@
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\bin\Debug\net10.0\Exercicio15.exe
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\bin\Debug\net10.0\Exercicio15.deps.json
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\bin\Debug\net10.0\Exercicio15.runtimeconfig.json
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\bin\Debug\net10.0\Exercicio15.dll
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\bin\Debug\net10.0\Exercicio15.pdb
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\Exercicio15.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\Exercicio15.AssemblyInfoInputs.cache
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\Exercicio15.AssemblyInfo.cs
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\Exercicio15.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\Exercicio15.sourcelink.json
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\Exercicio15.dll
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\refint\Exercicio15.dll
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\Exercicio15.pdb
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\Exercicio15.genruntimeconfig.cache
+E:\C#\CSharp\CSsharp\Exercicios\Exercicio15\obj\Debug\net10.0\ref\Exercicio15.dll
